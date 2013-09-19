@@ -1,0 +1,26 @@
+{
+  "name": "block-iterator",
+  "version": "0.0.0",
+  "description": "iterate over chunks of files",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/soldair/node-block-iterator.git"
+  },
+  "keywords": [
+    "file",
+    "iterate",
+    "chunks"
+  ],
+  "author": "Ryan Day <soldair@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/soldair/node-block-iterator/issues"
+  },
+  "devDependencies": {
+    "tape": "~1.1.0"
+  }
+}
