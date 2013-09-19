@@ -1,14 +1,14 @@
 {
-  "name": "block-iterator",
+  "name": "block-reader",
   "version": "0.0.0",
-  "description": "iterate over chunks of files",
+  "description": "read specific chunks of files by offset",
   "main": "index.js",
   "scripts": {
     "test": "node test/*.js"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/soldair/node-block-iterator.git"
+    "url": "git://github.com/soldair/node-block-reader.git"
   },
   "keywords": [
     "file",
@@ -18,7 +18,7 @@
   "author": "Ryan Day <soldair@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/soldair/node-block-iterator/issues"
+    "url": "https://github.com/soldair/node-block-reader/issues"
   },
   "devDependencies": {
     "tape": "~1.1.0"
