@@ -1,3 +1,7 @@
+
+[![Build Status](https://secure.travis-ci.org/soldair/node-block-reader.png)](http://travis-ci.org/soldair/node-block-reader)
+
+
 block-reader
 ============
 
